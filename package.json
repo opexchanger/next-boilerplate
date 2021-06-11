@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "test": "jest",
-    "test:watch": "npm test --watch"
+    "test:watch": "jest --watch"
   },
   "dependencies": {
     "next": "10.2.3",
